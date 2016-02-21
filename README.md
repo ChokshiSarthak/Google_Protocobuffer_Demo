@@ -21,9 +21,8 @@ $ protoc --version
 
 $ sudo ldconfig
 $ protoc --version
-
-
-HOW TO USE:
-1. make all
-2. Run the server first : ./server <PORTNO>
-3. Run the Client:        ./client localhost <PORTNO>
+----------------------------------------------------------------------------------------------------------------------------------
+HOW TO USE:                   
+$ make all            
+$ Run the server first : ./server $portno                     
+$ Run the Client:        ./client localhost $portno
